@@ -1,0 +1,30 @@
+Aggelos Troulakis 	atroul@csd.uoc.gr 	1575
+Nikos Vervelakis	vervelak@csd.uoc.gr	2513
+Nikos Luludakis		luludak@csd.uoc.gr	2430
+
+/*******************************SHA256SUM***********************************/
+83929277294452654ab6f7da4e08c26ae720e01ff963a1eff6f681782f7dfd9e  Makefile
+22293f00d1da3324e7e07b568fffc5ed39293bc74957067b1bf69a6748f0c629  arrays.c
+8bb48356dd707098f6b5fab7637cb397c6408d5268af62723ab1793e6b516110  arrays.h
+e2734342ec4396c5738fa40439656b3534e44c9965fe1ec568fffeaaa46fbe96  functions.c
+b6edaa5ddf2db66d1c513704bdd11e37a3c85a38ed326b5a6b36fd4815de661c  functions.h
+0f7bbf31c03633d949c147f4d9bb730fd169d4cb47f0993033d97c3f080261b4  lexan.l
+57f363f1cc3cb7fef7f7a2390b3fdc6f3b23b16faa5fb320826a3ffcd7f64cfe  parser.y
+82be87180c37732dc751677dfd1b1cab0b44573d4e7461d18f02b970614e2c31  symbolt.c
+8e351ffd04ec2571ae080aae5fb23214504ed82a57b0a157193f087f04c14de3  symbolt.h
+2851084372339471fb8b598721d4a28bb3f53ba8d15d0cdf674e50bd595f2137  target.c
+06acbd16f06e741238f67a4cee143222c4210fe2723cb565d590c57abd56a3fc  target.h
+b1a00e3b437989c0ca20bbaa93d6a6a3df5cbdad881445dd414ca13e88e3841d  test.alpha
+/****************MD5SUM******************/
+f965c4bbf42faa9f85a24b23ae5b2a09  Makefile
+91524e2d207676977124795ca0cad759  arrays.c
+53b06d2eac1b9f0a0a2f436e7fdd9903  arrays.h
+faf182c109df86a29651a98cb30a81ba  functions.c
+0f51d7f653c809bb78072f3fdc2d9c85  functions.h
+820f529726ea4d21cebb873908229e7c  lexan.l
+3d6a8e47f5d2672ea7a0af3b245496a8  parser.y
+6a39c8777835f5e9cf447836228b967b  symbolt.c
+190e6000b78d6dde872ce187c9f97c8a  symbolt.h
+a4f97eb995750eb2a54b9e1b422b63f7  target.c
+3ef3e8284f5b7a9c07ba7398873b3a55  target.h
+e195c20d76538d25cefebdfbf96b09ee  test.alpha

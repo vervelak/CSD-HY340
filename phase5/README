@@ -1,0 +1,32 @@
+Aggelos Troulakis 	atroul@csd.uoc.gr 	1575
+Nikos Vervelakis	vervelak@csd.uoc.gr	2513
+Nikos Luludakis		luludak@csd.uoc.gr	2430
+
+/*******************************SHA256SUM***********************************/
+4dfa42e251ffdc18eccffa4a1a7599392917d30a0e3e8d45eecda334182360de  Makefile
+e163f3ac7868d49ee38c162f231ea7198e83e40887ab9356e0baff7dcf6929e0  avm.c
+128e66865d831372eb8977ddbef6bea8419d9393fd5de6ee74b37bb14c9cf5f0  avm.h
+5ddd1cd399c79525b2967b547b89e383cdaba614319b24df0a1e4360c16567e5  exec_arithmetic.c
+7473ba48e796321c1369d2a449e1eafb9425b3801c0e2a649da8ff33ed57415d  exec_arithmetic.h
+371e7ce8c2c996ea8057607bab32ca10d1570f7667a27673cf7f1cd321095865  exec_assign.c
+58120bcce4d74dade86b62c17e29d34407aa07aae3e072915a3023f2d92f8e98  exec_assign.h
+54bdc102ab7f8c8866ec288940efea1ee73aa893e97a1528d37314abccdf72e7  exec_funcs.c
+53b09401e4e5fc029c76eff26433ae3d18fe02aafc894e661bc743792c412f0a  exec_funcs.h
+c7ae1653c6486ca87c9ef36420e6c34f982d2ce58e352cfedc7ae102e3b2fda9  exec_statements.c
+d180f93becfd0c44229a0eec887eb4b07f7b6b552d69582ec1848705883cea92  exec_statements.h
+7038740982a6b1e3627fb07cca8bfd8a6ecd6df8ac8ba83f1140f85bd64a2437  structs.c
+57d0275d31c707b1e49ebd08de456bcfa6e123c2d5f4f498d8715634219bd57e  structs.h
+/*******************MD5SUM**********************/
+fbce7af5213ef37db00da952136021a8  Makefile
+fbc403ca1a9412a34861d1235a55180f  avm.c
+cd3f1da817dcece2604a9d5c05353475  avm.h
+e9d37b9b5214613bfe212a9e8e4ce2d4  exec_arithmetic.c
+d53a934296f58c55d41d5638297fb49e  exec_arithmetic.h
+1be17ebbbd2513d8667eaf48184e2eb2  exec_assign.c
+69d33b5cc18ebeb919a2feb3584f034f  exec_assign.h
+ef4a47f6a3e1c14a68b1b8b737966ff9  exec_funcs.c
+b02443e14528bd173e8c80d68615a6bd  exec_funcs.h
+a1a4066d1361a51f59f95bba7a151ba0  exec_statements.c
+bca3bb0228e29bced8c02fe5b3b9c0ab  exec_statements.h
+929877a1907387cdb9a7a4b6a537d43f  structs.c
+09303fd037adb2ac80227d4daf34bdf6  structs.h

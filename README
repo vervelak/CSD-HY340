@@ -1,0 +1,79 @@
+Aggelos Troulakis 	atroul@csd.uoc.gr 	1575
+Nikos Vervelakis	vervelak@csd.uoc.gr	2513
+Nikos Luludakis		luludak@csd.uoc.gr	2430
+
+      68 text files.
+      63 unique files.                              
+      18 files ignored.
+
+http://cloc.sourceforge.net v 1.55  T=0.5 s (100.0 files/s, 27778.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+C                               14           1300            635           6200
+yacc                             3            394              1           2159
+C/C++ Header                    14            349            145            945
+lex                              4            241             14            894
+Bourne Shell                    10             56            155            252
+make                             5             48             18             83
+-------------------------------------------------------------------------------
+SUM:                            50           2388            968          10533
+-------------------------------------------------------------------------------
+
+
+
+
+/***********************************SHA256 SUMS*********************************/
+11d9178278c9035e41414e1418432b7a6d905e2a992cd175c59f9be1327a6264  phase1/Makefile
+595d83b0378667d8f97bcf553f516a3cf06eeab9876b1e3cbe03f819079002e3  phase1/Omada.txt
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  phase1/README
+46188bf20c3f921031414ed3182ab9c4495cff1fbbbc484899f80b327ced9dc6  phase1/al.c
+4f50fe916d51ac164755d150baa316a3e6862d7c812087ce1923b7e4afafb6c2  phase1/al.h
+c862ed62bfa2fa72ad5f83a7558c10e94cf963f0336f5cb5364ba434831a9d7c  phase1/lex.yy.c
+b7407aacadd2f940e46eaedbd51cb1b5cf09029732e733bb17b56cbbf8a99806  phase1/scanner.l
+f5c0246c3de4ecc520db20421914b0833307570b2490549bf284fc821716c24a  phase1/scanner.l~
+7c60434b37af165dc2bed113a342945135e697efd7441c1a703adf0497a40a28  phase1/scanner.out
+043b03d7a538c394dbfd274f639ddbd07da0464de4f5ba255f16e6851a2493ab  phase1/test
+82ab48ed4585975f83001464956ecac0ed77cc446d99d47a49b6731d047dbd44  phase1/test.txt
+b2ee7b632177b150c6ff52c03e6aea54380cf95a944aa89e9d74c680f5ed03ab  phase2/Makefile
+86550ffd9cc3fbb56ba0c0952ebb7096bc03622c0abd855529cfd6ab89a0153a  phase2/hashTable.h
+ed6d0c5482f78fb2493c9ed531f6c816ff37a88ccd7ad70f4043269c64ef9f0d  phase2/hashTable.h.orig
+d4d37a0ce27e6850d1f9ce995c3b76ed15cd5cde221f6a9556ec0a020ff5eec8  phase2/lexan.l
+1adb82f144d31aea6668d9c8aef29c29e603204bee79dd9f5874e38263d5180e  phase2/parser.y
+be90cd16d2ecd27cb375b35bf0760c4c52dd01c782d8f5540c2700c89aaf405f  phase2/symbolt.c
+4a5b61aa42e7cf855d2db06a43544cae568457e0ab1f53ca9b3a56bf726b8582  phase2/symbolt.c.orig
+72d29d68479b350bd0249b91d946a454b784325fc287e583f0436cfbc80790e2  phase3/Makefile
+76d157f21d33ed8ac6f8f8f01a88a7a39f5be203fd102dd4d40065387e790300  phase3/README
+1b5e631b92d718d5c55470091cc396478fee3bde17c86fb58c43d0114538f73a  phase3/functions.c
+25d11abd19d4b10f8e24310c0b18d78705abd7732f5551c2a92edfa572f43554  phase3/functions.h
+bdea66335dba7a0a3a0c24d9e6caced1cba0673922b9bc1fe32e10af81fa875a  phase3/lexan.l
+e2c77039250820bde0f04e3313f6ffac81c2fa3cb05216ffe5f7cd1ff835b238  phase3/parser.y
+655db82fadd88a6138d6159e4739fbaeb620012962b7dee692d0e89bf1aa6df2  phase3/symbolt.c
+7daa188081342e54c8ebc0724cbf4510810c901061fbfccc75a6da87054a4d5a  phase3/symbolt.h
+83929277294452654ab6f7da4e08c26ae720e01ff963a1eff6f681782f7dfd9e  phase4/Makefile
+71bb2d2b52155eff67ada062dab61c9daa56e3233311989125ee61fcbcfb996c  phase4/README
+22293f00d1da3324e7e07b568fffc5ed39293bc74957067b1bf69a6748f0c629  phase4/arrays.c
+8bb48356dd707098f6b5fab7637cb397c6408d5268af62723ab1793e6b516110  phase4/arrays.h
+e2734342ec4396c5738fa40439656b3534e44c9965fe1ec568fffeaaa46fbe96  phase4/functions.c
+b6edaa5ddf2db66d1c513704bdd11e37a3c85a38ed326b5a6b36fd4815de661c  phase4/functions.h
+0f7bbf31c03633d949c147f4d9bb730fd169d4cb47f0993033d97c3f080261b4  phase4/lexan.l
+57f363f1cc3cb7fef7f7a2390b3fdc6f3b23b16faa5fb320826a3ffcd7f64cfe  phase4/parser.y
+82be87180c37732dc751677dfd1b1cab0b44573d4e7461d18f02b970614e2c31  phase4/symbolt.c
+8e351ffd04ec2571ae080aae5fb23214504ed82a57b0a157193f087f04c14de3  phase4/symbolt.h
+2851084372339471fb8b598721d4a28bb3f53ba8d15d0cdf674e50bd595f2137  phase4/target.c
+06acbd16f06e741238f67a4cee143222c4210fe2723cb565d590c57abd56a3fc  phase4/target.h
+b1a00e3b437989c0ca20bbaa93d6a6a3df5cbdad881445dd414ca13e88e3841d  phase4/test.alpha
+4dfa42e251ffdc18eccffa4a1a7599392917d30a0e3e8d45eecda334182360de  phase5/Makefile
+263d18fcdd1c72cafebb0a44b632817ec71fc734f31b5d1a6b0ae654697e2e18  phase5/README
+e163f3ac7868d49ee38c162f231ea7198e83e40887ab9356e0baff7dcf6929e0  phase5/avm.c
+128e66865d831372eb8977ddbef6bea8419d9393fd5de6ee74b37bb14c9cf5f0  phase5/avm.h
+5ddd1cd399c79525b2967b547b89e383cdaba614319b24df0a1e4360c16567e5  phase5/exec_arithmetic.c
+7473ba48e796321c1369d2a449e1eafb9425b3801c0e2a649da8ff33ed57415d  phase5/exec_arithmetic.h
+371e7ce8c2c996ea8057607bab32ca10d1570f7667a27673cf7f1cd321095865  phase5/exec_assign.c
+58120bcce4d74dade86b62c17e29d34407aa07aae3e072915a3023f2d92f8e98  phase5/exec_assign.h
+54bdc102ab7f8c8866ec288940efea1ee73aa893e97a1528d37314abccdf72e7  phase5/exec_funcs.c
+53b09401e4e5fc029c76eff26433ae3d18fe02aafc894e661bc743792c412f0a  phase5/exec_funcs.h
+c7ae1653c6486ca87c9ef36420e6c34f982d2ce58e352cfedc7ae102e3b2fda9  phase5/exec_statements.c
+d180f93becfd0c44229a0eec887eb4b07f7b6b552d69582ec1848705883cea92  phase5/exec_statements.h
+7038740982a6b1e3627fb07cca8bfd8a6ecd6df8ac8ba83f1140f85bd64a2437  phase5/structs.c
+57d0275d31c707b1e49ebd08de456bcfa6e123c2d5f4f498d8715634219bd57e  phase5/structs.h
