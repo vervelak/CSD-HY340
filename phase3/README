@@ -1,0 +1,12 @@
+Aggelos Troulakis 	atroul@csd.uoc.gr 	1575
+Nikos Vervelakis	vervelak@csd.uoc.gr	2513
+Nikos Luludakis		luludak@csd.uoc.gr	2430
+ 
+/*******************SHA256SUM**********************************/
+72d29d68479b350bd0249b91d946a454b784325fc287e583f0436cfbc80790e2  Makefile
+1b5e631b92d718d5c55470091cc396478fee3bde17c86fb58c43d0114538f73a  functions.c
+25d11abd19d4b10f8e24310c0b18d78705abd7732f5551c2a92edfa572f43554  functions.h
+bdea66335dba7a0a3a0c24d9e6caced1cba0673922b9bc1fe32e10af81fa875a  lexan.l
+e2c77039250820bde0f04e3313f6ffac81c2fa3cb05216ffe5f7cd1ff835b238  parser.y
+655db82fadd88a6138d6159e4739fbaeb620012962b7dee692d0e89bf1aa6df2  symbolt.c
+7daa188081342e54c8ebc0724cbf4510810c901061fbfccc75a6da87054a4d5a  symbolt.h
